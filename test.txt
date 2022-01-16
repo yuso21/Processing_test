@@ -3,3 +3,5 @@ edit test
 edit2
 
 branch test
+
+clone test
